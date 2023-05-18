@@ -1,0 +1,664 @@
+{
+    "sintomas": [
+        {
+            "sintoma": "Picazon",
+            "id": 0,
+            "img": "https://cdn-icons-png.flaticon.com/512/5730/5730040.png"
+        },
+        {
+            "sintoma": "Erupcion Cutanea",
+            "id": 1,
+            "img": "https://cdn-icons-png.flaticon.com/512/7690/7690910.png"
+        },
+        {
+            "sintoma": "Erupcion en la piel nodal",
+            "id": 2,
+            "img": "https://cdn-icons-png.flaticon.com/512/3954/3954163.png"
+        },
+        {
+            "sintoma": "Estornudos continuos",
+            "id": 3,
+            "img": "https://cdn-icons-png.flaticon.com/512/6701/6701598.png"
+        },
+        {
+            "sintoma": "Temblando",
+            "id": 4,
+            "img": "https://cdn-icons-png.flaticon.com/512/6903/6903881.png"
+        },
+        {
+            "sintoma": "Escalofrios",
+            "id": 5,
+            "img": "https://cdn-icons-png.flaticon.com/512/5730/5730111.png"
+        },
+        {
+            "sintoma": "Dolor en articulaciones",
+            "id": 6,
+            "img": "https://cdn-icons-png.flaticon.com/512/2999/2999108.png"
+        },
+        {
+            "sintoma": "Dolor de estomago",
+            "id": 7,
+            "img": "https://cdn-icons-png.flaticon.com/512/3194/3194951.png"
+        },
+        {
+            "sintoma": "Acidez",
+            "id": 8,
+            "img": "https://cdn-icons-png.flaticon.com/512/5354/5354252.png"
+        },
+        {
+            "sintoma": "Ulceras en la lengua",
+            "id": 9,
+            "img": "https://cdn-icons-png.flaticon.com/512/6534/6534067.png"
+        },
+        {
+            "sintoma": "Perdida muscular",
+            "id": 10,
+            "img": "https://cdn-icons-png.flaticon.com/512/2117/2117260.png"
+        },
+        {
+            "sintoma": "Vomitos",
+            "id": 11,
+            "img": "https://cdn-icons-png.flaticon.com/512/2599/2599606.png"
+        },
+        {
+            "sintoma": "Miccion ardiente",
+            "id": 12,
+            "img": "https://cdn-icons-png.flaticon.com/512/5757/5757073.png"
+        },
+        {
+            "sintoma": "Orina manchada",
+            "id": 13,
+            "img": "https://cdn-icons-png.flaticon.com/512/2260/2260649.png"
+        },
+        {
+            "sintoma": "Fatiga",
+            "id": 14,
+            "img": "https://cdn-icons-png.flaticon.com/512/3017/3017401.png"
+        },
+        {
+            "sintoma": "Aumento de peso",
+            "id": 15,
+            "img": "https://cdn-icons-png.flaticon.com/512/5862/5862623.png"
+        },
+        {
+            "sintoma": "Ansiedad",
+            "id": 16,
+            "img": "https://cdn-icons-png.flaticon.com/512/3997/3997872.png"
+        },
+        {
+            "sintoma": "Manos frias",
+            "id": 17,
+            "img": "https://cdn-icons-png.flaticon.com/512/2387/2387244.png"
+        },
+        {
+            "sintoma": "Cambios de humor",
+            "id": 18,
+            "img": "https://cdn-icons-png.flaticon.com/512/3475/3475159.png"
+        },
+        {
+            "sintoma": "Perdida de peso",
+            "id": 19,
+            "img": "https://cdn-icons-png.flaticon.com/512/2764/2764444.png"
+        },
+        {
+            "sintoma": "Inquietud",
+            "id": 20,
+            "img": "https://cdn-icons-png.flaticon.com/512/6009/6009896.png"
+        },
+        {
+            "sintoma": "Letargo",
+            "id": 21,
+            "img": "https://cdn-icons-png.flaticon.com/512/10209/10209311.png"
+        },
+        {
+            "sintoma": "Parches en la garganta",
+            "id": 22,
+            "img": "https://cdn-icons-png.flaticon.com/512/2950/2950140.png"
+        },
+        {
+            "sintoma": "Nivel de azucar irregular",
+            "id": 23,
+            "img": "https://cdn-icons-png.flaticon.com/512/2224/2224301.png"
+        },
+        {
+            "sintoma": "Tos",
+            "id": 24,
+            "img": "https://cdn-icons-png.flaticon.com/512/2811/2811503.png"
+        },
+        {
+            "sintoma": "Fiebre alta",
+            "id": 25,
+            "img": "https://cdn-icons-png.flaticon.com/512/3954/3954121.png"
+        },
+        {
+            "sintoma": "Ojos hundidos",
+            "id": 26,
+            "img": "https://cdn-icons-png.flaticon.com/512/2999/2999131.png"
+        },
+        {
+            "sintoma": "Dificultades para respirar",
+            "id": 27,
+            "img": "https://cdn-icons-png.flaticon.com/512/3782/3782002.png"
+        },
+        {
+            "sintoma": "Transpiracion",
+            "id": 28,
+            "img": "https://cdn-icons-png.flaticon.com/512/1585/1585816.png"
+        },
+        {
+            "sintoma": "Deshidratacion",
+            "id": 29,
+            "img": "https://cdn-icons-png.flaticon.com/512/4149/4149061.png"
+        },
+        {
+            "sintoma": "Indigestion",
+            "id": 30,
+            "img": "https://cdn-icons-png.flaticon.com/512/6037/6037778.png"
+        },
+        {
+            "sintoma": "Dolor de cabeza",
+            "id": 31,
+            "img": "https://cdn-icons-png.flaticon.com/512/6836/6836823.png"
+        },
+        {
+            "sintoma": "Piel amarillenta",
+            "id": 32,
+            "img": "https://cdn-icons-png.flaticon.com/512/4813/4813829.png"
+        },
+        {
+            "sintoma": "Orina oscura",
+            "id": 33,
+            "img": "https://cdn-icons-png.flaticon.com/512/9008/9008241.png"
+        },
+        {
+            "sintoma": "Nauseas",
+            "id": 34,
+            "img": "https://cdn-icons-png.flaticon.com/512/5641/5641608.png"
+        },
+        {
+            "sintoma": "Perdida de apetito",
+            "id": 35,
+            "img": "https://cdn-icons-png.flaticon.com/512/7959/7959703.png"
+        },
+        {
+            "sintoma": "Dolor dentras de los ojos",
+            "id": 36,
+            "img": "https://cdn-icons-png.flaticon.com/512/9962/9962038.png"
+        },
+        {
+            "sintoma": "Dolor de espalda",
+            "id": 37,
+            "img": "https://cdn-icons-png.flaticon.com/512/9962/9962001.png"
+        },
+        {
+            "sintoma": "Constipacion",
+            "id": 38,
+            "img": "https://cdn-icons-png.flaticon.com/512/9558/9558160.png"
+        },
+        {
+            "sintoma": "Dolor abdominal",
+            "id": 39,
+            "img": "https://cdn-icons-png.flaticon.com/512/2599/2599536.png"
+        },
+        {
+            "sintoma": "Diarrea",
+            "id": 40,
+            "img": "https://cdn-icons-png.flaticon.com/512/5389/5389006.png"
+        },
+        {
+            "sintoma": "Fiebre leve",
+            "id": 41,
+            "img": "https://cdn-icons-png.flaticon.com/512/2833/2833189.png"
+        },
+        {
+            "sintoma": "Orina amarilla",
+            "id": 42,
+            "img": "https://cdn-icons-png.flaticon.com/512/4813/4813818.png"
+        },
+        {
+            "sintoma": "Ojos amarillentos",
+            "id": 43,
+            "img": "https://cdn-icons-png.flaticon.com/512/4813/4813829.png"
+        },
+        {
+            "sintoma": "Insuficiencia hepatica aguda",
+            "id": 44,
+            "img": "https://cdn-icons-png.flaticon.com/512/7476/7476289.png"
+        },
+        {
+            "sintoma": "Sobrecarga de fluidos",
+            "id": 45,
+            "img": "https://cdn-icons-png.flaticon.com/512/5667/5667488.png"
+        },
+        {
+            "sintoma": "Hinchazon del estomago",
+            "id": 46,
+            "img": "https://cdn-icons-png.flaticon.com/512/9424/9424139.png"
+        },
+        {
+            "sintoma": "Glangios linfaticos hinchados",
+            "id": 47,
+            "img": "https://cdn-icons-png.flaticon.com/512/8522/8522862.png"
+        },
+        {
+            "sintoma": "Malestar",
+            "id": 48,
+            "img": "https://cdn-icons-png.flaticon.com/512/5775/5775353.png"
+        },
+        {
+            "sintoma": "Vision borrosa",
+            "id": 49,
+            "img": "https://cdn-icons-png.flaticon.com/512/6450/6450118.png"
+        },
+        {
+            "sintoma": "Flema",
+            "id": 50,
+            "img": "https://cdn-icons-png.flaticon.com/512/10032/10032106.png"
+        },
+        {
+            "sintoma": "Irritacion de garganta",
+            "id": 51,
+            "img": "https://cdn-icons-png.flaticon.com/512/3954/3954169.png"
+        },
+        {
+            "sintoma": "Ojos enrrojecidos",
+            "id": 52,
+            "img": "https://cdn-icons-png.flaticon.com/512/4033/4033695.png"
+        },
+        {
+            "sintoma": "Presion en los senos",
+            "id": 53,
+            "img": "https://cdn-icons-png.flaticon.com/512/7015/7015327.png"
+        },
+        {
+            "sintoma": "Rinorrea",
+            "id": 54,
+            "img": "https://cdn-icons-png.flaticon.com/512/3336/3336483.png"
+        },
+        {
+            "sintoma": "Congestion",
+            "id": 55,
+            "img": "https://cdn-icons-png.flaticon.com/512/3358/3358391.png"
+        },
+        {
+            "sintoma": "Dolor de pecho",
+            "id": 56,
+            "img": "https://cdn-icons-png.flaticon.com/512/3782/3782076.png"
+        },
+        {
+            "sintoma": "Debilidad en las extremidades",
+            "id": 57,
+            "img": "https://cdn-icons-png.flaticon.com/512/9998/9998203.png"
+        },
+        {
+            "sintoma": "Ritmo corazon rapido",
+            "id": 58,
+            "img": "https://cdn-icons-png.flaticon.com/512/8390/8390874.png"
+        },
+        {
+            "sintoma": "Dolor en movimientos intestinales",
+            "id": 59,
+            "img": "https://cdn-icons-png.flaticon.com/512/5746/5746110.png"
+        },
+        {
+            "sintoma": "Dolor anal",
+            "id": 60,
+            "img": "https://cdn-icons-png.flaticon.com/512/10034/10034701.png"
+        },
+        {
+            "sintoma": "Heces con sangre",
+            "id": 61,
+            "img": "https://cdn-icons-png.flaticon.com/512/7196/7196610.png"
+        },
+        {
+            "sintoma": "Irritacion anal",
+            "id": 62,
+            "img": "https://cdn-icons-png.flaticon.com/512/10034/10034701.png"
+        },
+        {
+            "sintoma": "Dolor de cuello",
+            "id": 63,
+            "img": "https://cdn-icons-png.flaticon.com/512/2895/2895521.png"
+        },
+        {
+            "sintoma": "Mareo",
+            "id": 64,
+            "img": "https://cdn-icons-png.flaticon.com/512/2853/2853810.png"
+        },
+        {
+            "sintoma": "Calambre",
+            "id": 65,
+            "img": "https://cdn-icons-png.flaticon.com/512/1813/1813423.png"
+        },
+        {
+            "sintoma": "Hematomas",
+            "id": 66,
+            "img": "https://cdn-icons-png.flaticon.com/512/4148/4148407.png"
+        },
+        {
+            "sintoma": "Obesidad",
+            "id": 67,
+            "img": "https://cdn-icons-png.flaticon.com/512/7451/7451027.png"
+        },
+        {
+            "sintoma": "Piernas hinchadas",
+            "id": 68,
+            "img": "https://cdn-icons-png.flaticon.com/512/6045/6045933.png"
+        },
+        {
+            "sintoma": "Vasos de sangre hinchados",
+            "id": 69,
+            "img": "https://cdn-icons-png.flaticon.com/512/6904/6904039.png"
+        },
+        {
+            "sintoma": "Cara ojos hinchados",
+            "id": 70,
+            "img": "https://cdn-icons-png.flaticon.com/512/98/98485.png"
+        },
+        {
+            "sintoma": "Tiroides engrandecido",
+            "id": 71,
+            "img": "https://cdn-icons-png.flaticon.com/512/954/954297.png"
+        },
+        {
+            "sintoma": "Unas quebradizas",
+            "id": 72,
+            "img": "https://cdn-icons-png.flaticon.com/512/9099/9099376.png"
+        },
+        {
+            "sintoma": "Extremidades hinchadas",
+            "id": 73,
+            "img": "https://cdn-icons-png.flaticon.com/512/6045/6045912.png"
+        },
+        {
+            "sintoma": "Hambre excesiva",
+            "id": 74,
+            "img": "https://cdn-icons-png.flaticon.com/512/5571/5571567.png"
+        },
+        {
+            "sintoma": "Contacto extramatrimonial",
+            "id": 75,
+            "img": "https://cdn-icons-png.flaticon.com/512/9995/9995925.png"
+        },
+        {
+            "sintoma": "Labios secos hormigueados",
+            "id": 76,
+            "img": "https://cdn-icons-png.flaticon.com/512/4148/4148397.png"
+        },
+        {
+            "sintoma": "Arrastra el habla",
+            "id": 77,
+            "img": "https://cdn-icons-png.flaticon.com/512/6349/6349595.png"
+        },
+        {
+            "sintoma": "Dolor de rodilla",
+            "id": 78,
+            "img": "https://cdn-icons-png.flaticon.com/512/1823/1823738.png"
+        },
+        {
+            "sintoma": "Dolor de cadera",
+            "id": 79,
+            "img": "https://cdn-icons-png.flaticon.com/512/9961/9961847.png"
+        },
+        {
+            "sintoma": "Debilidad muscular",
+            "id": 80,
+            "img": "https://cdn-icons-png.flaticon.com/512/6836/6836826.png"
+        },
+        {
+            "sintoma": "Rigidez en la nuca",
+            "id": 81,
+            "img": "https://cdn-icons-png.flaticon.com/512/2324/2324403.png"
+        },
+        {
+            "sintoma": "Articulaciones hinchadas",
+            "id": 82,
+            "img": "https://cdn-icons-png.flaticon.com/512/4767/4767867.png"
+        },
+        {
+            "sintoma": "Movimiento rigido",
+            "id": 83,
+            "img": "https://cdn-icons-png.flaticon.com/512/9961/9961853.png"
+        },
+        {
+            "sintoma": "Movimientos giratorios",
+            "id": 84,
+            "img": "https://cdn-icons-png.flaticon.com/512/4601/4601189.png"
+        },
+        {
+            "sintoma": "Perdida del equilibrio",
+            "id": 85,
+            "img": "https://cdn-icons-png.flaticon.com/512/3243/3243616.png"
+        },
+        {
+            "sintoma": "Inestabilidad",
+            "id": 86,
+            "img": "https://cdn-icons-png.flaticon.com/512/9924/9924545.png"
+        },
+        {
+            "sintoma": "Debilidad de una parte del cuerpo",
+            "id": 87,
+            "img": "https://cdn-icons-png.flaticon.com/512/2867/2867081.png"
+        },
+        {
+            "sintoma": "Perdida del olfato",
+            "id": 88,
+            "img": "https://cdn-icons-png.flaticon.com/512/3782/3782039.png"
+        },
+        {
+            "sintoma": "Incomodidad de la vejiga",
+            "id": 89,
+            "img": "https://cdn-icons-png.flaticon.com/512/5800/5800405.png"
+        },
+        {
+            "sintoma": "Mal olor de orina",
+            "id": 90,
+            "img": "https://cdn-icons-png.flaticon.com/512/4813/4813818.png"
+        },
+        {
+            "sintoma": "Sensacion continua de orina",
+            "id": 91,
+            "img": "https://cdn-icons-png.flaticon.com/512/2202/2202117.png"
+        },
+        {
+            "sintoma": "Trafico de gases",
+            "id": 92,
+            "img": "https://cdn-icons-png.flaticon.com/512/10034/10034694.png"
+        },
+        {
+            "sintoma": "Picazon interna",
+            "id": 93,
+            "img": "https://cdn-icons-png.flaticon.com/512/2332/2332710.png"
+        },
+        {
+            "sintoma": "Intoxicacion",
+            "id": 94,
+            "img": "https://cdn-icons-png.flaticon.com/512/10060/10060271.png"
+        },
+        {
+            "sintoma": "Depresion",
+            "id": 95,
+            "img": "https://cdn-icons-png.flaticon.com/512/4897/4897237.png"
+        },
+        {
+            "sintoma": "Irritabilidad",
+            "id": 96,
+            "img": "https://cdn-icons-png.flaticon.com/512/3590/3590305.png"
+        },
+        {
+            "sintoma": "Dolor muscular",
+            "id": 97,
+            "img": "https://cdn-icons-png.flaticon.com/512/2615/2615237.png"
+        },
+        {
+            "sintoma": "Alteracion sensorial",
+            "id": 98,
+            "img": "https://cdn-icons-png.flaticon.com/512/5024/5024641.png"
+        },
+        {
+            "sintoma": "Manchas rojas en el cuerpo",
+            "id": 99,
+            "img": "https://cdn-icons-png.flaticon.com/512/9066/9066823.png"
+        },
+        {
+            "sintoma": "Dolor de vientre",
+            "id": 100,
+            "img": "https://cdn-icons-png.flaticon.com/512/2317/2317649.png"
+        },
+        {
+            "sintoma": "Menstruacion anormal",
+            "id": 101,
+            "img": "https://cdn-icons-png.flaticon.com/512/4080/4080381.png"
+        },
+        {
+            "sintoma": "Parches discromicos",
+            "id": 102,
+            "img": "https://cdn-icons-png.flaticon.com/512/6059/6059990.png"
+        },
+        {
+            "sintoma": "Goteo de ojos",
+            "id": 103,
+            "img": "https://cdn-icons-png.flaticon.com/512/1581/1581803.png"
+        },
+        {
+            "sintoma": "Apetito incrementado",
+            "id": 104,
+            "img": "https://cdn-icons-png.flaticon.com/512/5506/5506730.png"
+        },
+        {
+            "sintoma": "Poliuria",
+            "id": 105,
+            "img": "https://cdn-icons-png.flaticon.com/512/6202/6202209.png"
+        },
+        {
+            "sintoma": "Heredado de familia",
+            "id": 106,
+            "img": "https://cdn-icons-png.flaticon.com/512/4072/4072399.png"
+        },
+        {
+            "sintoma": "Esputo mucoso",
+            "id": 107,
+            "img": "https://cdn-icons-png.flaticon.com/512/9851/9851902.png"
+        },
+        {
+            "sintoma": "Esputo oxidado",
+            "id": 108,
+            "img": "https://cdn-icons-png.flaticon.com/512/9851/9851911.png"
+        },
+        {
+            "sintoma": "Desconcentracion",
+            "id": 109,
+            "img": "https://cdn-icons-png.flaticon.com/512/2855/2855027.png"
+        },
+        {
+            "sintoma": "Alteraciones visuales",
+            "id": 110,
+            "img": "https://cdn-icons-png.flaticon.com/512/1685/1685857.png"
+        },
+        {
+            "sintoma": "Recibio transfuciones de sangre",
+            "id": 111,
+            "img": "https://cdn-icons-png.flaticon.com/512/5011/5011358.png"
+        },
+        {
+            "sintoma": "Recibio inyecciones no esteriles",
+            "id": 112,
+            "img": "https://cdn-icons-png.flaticon.com/512/4328/4328859.png"
+        },
+        {
+            "sintoma": "En coma",
+            "id": 113,
+            "img": "https://cdn-icons-png.flaticon.com/512/978/978957.png"
+        },
+        {
+            "sintoma": "Sangrado estomacal",
+            "id": 114,
+            "img": "https://cdn-icons-png.flaticon.com/512/4806/4806244.png"
+        },
+        {
+            "sintoma": "Distencion del abdomen",
+            "id": 115,
+            "img": "https://cdn-icons-png.flaticon.com/512/1576/1576251.png"
+        },
+        {
+            "sintoma": "Historial alcoholico",
+            "id": 116,
+            "img": "https://cdn-icons-png.flaticon.com/512/6767/6767445.png"
+        },
+        {
+            "sintoma": "Revuelto de fluidos",
+            "id": 117,
+            "img": "https://cdn-icons-png.flaticon.com/512/4579/4579753.png"
+        },
+        {
+            "sintoma": "Esputo de sangre",
+            "id": 118,
+            "img": "https://cdn-icons-png.flaticon.com/512/7407/7407838.png"
+        },
+        {
+            "sintoma": "Venas prominentes en la pantorrila",
+            "id": 119,
+            "img": "https://cdn-icons-png.flaticon.com/512/3500/3500592.png"
+        },
+        {
+            "sintoma": "Palpitaciones",
+            "id": 120,
+            "img": "https://cdn-icons-png.flaticon.com/512/9704/9704587.png"
+        },
+        {
+            "sintoma": "Dolor al caminar",
+            "id": 121,
+            "img": "https://cdn-icons-png.flaticon.com/512/6098/6098702.png"
+        },
+        {
+            "sintoma": "Espinillas con pus",
+            "id": 122,
+            "img": "https://cdn-icons-png.flaticon.com/512/4826/4826024.png"
+        },
+        {
+            "sintoma": "Puntos negros",
+            "id": 123,
+            "img": "https://cdn-icons-png.flaticon.com/512/2025/2025318.png"
+        },
+        {
+            "sintoma": "Escurriendo",
+            "id": 124,
+            "img": "https://cdn-icons-png.flaticon.com/512/4452/4452607.png"
+        },
+        {
+            "sintoma": "Piel pelada",
+            "id": 125,
+            "img": "https://cdn-icons-png.flaticon.com/512/2762/2762765.png"
+        },
+        {
+            "sintoma": "Interaccion con plata",
+            "id": 126,
+            "img": "https://cdn-icons-png.flaticon.com/512/2497/2497823.png"
+        },
+        {
+            "sintoma": "Abolladuras pequenas en unas",
+            "id": 127,
+            "img": "https://cdn-icons-png.flaticon.com/512/3217/3217623.png"
+        },
+        {
+            "sintoma": "Inflamacion en unas",
+            "id": 128,
+            "img": "https://cdn-icons-png.flaticon.com/512/9099/9099520.png"
+        },
+        {
+            "sintoma": "Uso de ampolla",
+            "id": 129,
+            "img": "https://cdn-icons-png.flaticon.com/512/3843/3843370.png"
+        },
+        {
+            "sintoma": "Enrojecimiento alrededor de nariz",
+            "id": 130,
+            "img": "https://cdn-icons-png.flaticon.com/512/4223/4223555.png"
+        },
+        {
+            "sintoma": "Exudado amarillo",
+            "id": 131,
+            "img": "https://cdn-icons-png.flaticon.com/512/4813/4813829.png"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+header {
+  background-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #000000;
+  margin: 0;
+  font-family: Verdana;
+}
+
+.checkbox-container {
+  list-style-type: none;
+  column-count:5;
+}
+
+.checkbox-container li {
+  margin-bottom: 3px;
+  font-family: sans-serif;
+}
+
+input[type="checkbox"] {
+appearance: none;
+-webkit-appearance: none;
+-moz-appearance: none;
+width: 20px;
+height: 20px;
+border: 2px solid #555;
+border-radius: 5px;
+outline: none;
+transition: border-color 0.3s;
+margin-right: 5px;
+position: relative;
+top: 5px;
+}
+
+/* Estilo para los checkboxes cuando están seleccionados */
+input[type="checkbox"]:checked {
+border-color: #02f768;
+background-color: #34dd6d;
+}
+
+/* Estilo para las etiquetas */
+label {
+font-size: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.submit-button{
+  float:right;
+  background-color: #4CAF50; /* Color de fondo */
+  border: none; /* Borde */
+  color: white; /* Color del texto */
+  padding: 10px 20px; /* Espacio interno del botón */
+  text-align: center; /* Alineación del texto */
+  text-decoration: none; /* Decoración del texto */
+  display: inline-block; /* Elemento en línea */
+  font-size: 16px; /* Tamaño de la fuente */
+  margin: 4px 2px; /* Margen externo */
+  cursor: pointer; /* Cursor al pasar el mouse */
+  border-radius: 5px; /* Borde redondeado */
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+              0 1px 5px 0 rgba(0, 0, 0, 0.12),
+              0 3px 1px -2px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+.submit-button:hover {
+  background-color: #3e8e41;
+}
+
+.ventanaEmergente {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.ventanaEmergente-contenido {
+  background-color: #FFF;
+  margin: 5% auto;
+  padding: 30px;
+  border-radius: 10px;
+  width: 80%;
+  position: relative;
+  box-shadow: 0px 0px 10px #777;
+  font-family: sans-serif;
+}
+
+.titulo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.titulo h2 {
+  margin: 0;
+  font-size: 32px;
+  color: #333;
+}
+
+.imagen img {
+  float: left;
+  margin-right: 20px;
+  max-width: 50%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.descripcion {
+  margin-top: 20px;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.recomendaciones {
+  margin-top: 30px;
+}
+
+.recomendaciones h3 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.recomendaciones ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 3px;
+  list-style-type: none;
+}
+
+.cerrarVentana {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #aaa;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.cerrarVentana:hover {
+  color: #333;
+}
+
+#ventanaEmergenteError {
+  background-color: rgba(255,0,0,0.8);
+  color: #FFF;
+}
+
+#ventanaEmergenteError .titulo h2 {
+  color: #5c0909;
+}
+
+#ventanaEmergenteError .cerrarVentana {
+  color: #000000;
+}
+
+#ventanaEmergenteError .descripcion {
+  color: #640404;
+}

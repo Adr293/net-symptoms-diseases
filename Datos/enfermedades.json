@@ -1,0 +1,495 @@
+{
+    "enfermedades": [
+        {
+            "id": 0,
+            "enfermedad": "Micosis",
+            "descripcion": "Enfermedades causadas por hongos microscópicos, los cuales tienden a multiplicarse en la superficie de la piel (micosis superficial), o bien hacerlo en los propios órganos. Cuando esta enfermedad aparece por primera vez son comunes las recaídas, mientras que el tratamiento médico tiende a ser por lo general bastante largo.",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flacronicademurcia.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fmicobacteriosis-micosis-parasitosis-2-1140x623.jpg&f=1&nofb=1&ipt=5b424cc8632dab92d596dd1e76d37a6b95d366da72b9d9df6ba9d3425e36a325&ipo=images",
+            "recomendaciones": [
+                "Antes del tratamiento médico es necesario establecer un diagnóstico adecuado. Para ello se realiza un análisis al microscopio de la secreción de la lesión o una muestra de la piel afectada. Una vez confirmada la infección micótica o fúngica es común la administración de medicamentos antifúngicos, ya sean locales o generales, lo que dependerá de la lesión y su localización."
+            ]
+        },
+        {
+            "id": 1,
+            "enfermedad": "Alergia",
+            "descripcion": "Las alergias aparecen cuando el sistema inmunitario reacciona ante una sustancia extraña (como el polen, el veneno de abejas o la caspa de las mascotas) o un alimento que no provoca una reacción en la mayoría de las personas.Tu sistema inmunitario produce sustancias conocidas como «anticuerpos». Cuando tienes alergias, tu sistema inmunitario produce anticuerpos que identifican a un alérgeno en particular como dañino, incluso si no lo es. Cuando entras en contacto con el alérgeno, la reacción de tu sistema inmunitario puede hacer que la piel, los senos paranasales, las vías respiratorias o el aparato digestivo se inflamen. La gravedad de las alergias varía según la persona y puede ir desde una irritación menor hasta anafilaxis (una situación de emergencia potencialmente mortal). Si bien la mayoría de las alergias no tienen cura, los tratamientos pueden ayudarte a aliviar los síntomas de alergia.",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fdiarioacayucan.com%2Fwp-content%2Fuploads%2F2020%2F07%2Fsintomas-de-alergia.jpg%3Ffit%3D820%252C566&f=1&nofb=1&ipt=39ecb88e3a25731576a6f2bcdcc3f9a4c46335cf8f8df397d111ae699a28969f&ipo=images",
+            "recomendaciones": [
+                "La prevención de las reacciones alérgicas depende del tipo de alergia que tengas. Algunas medidas generales son las siguientes:",
+                "* Evita los desencadenantes conocidos. Aun si estás en tratamiento de los síntomas de la alergia, procura evitar los desencadenantes. Por ejemplo, si eres alérgico al polen, durante las épocas de mayor polinización, permanece en lugares cerrados, con las puertas y las ventanas cerradas. Si eres alérgico a los ácaros del polvo, limpia el polvo, pasa la aspiradora y lava la ropa de cama con frecuencia.",
+                "*Lleva un diario. Para tratar de identificar lo que origina o empeora los síntomas de alergia, lleva un registro de tus actividades y tus comidas, de los momentos en que se presentan los síntomas y de las medidas que parecen aliviarlos. Esto puede ayudarlos a ti y al proveedor de atención médica a identificar los desencadenantes.",
+                "* Usa un brazalete de alerta médica. Si tuviste alguna reacción alérgica grave, un brazalete (o collar) de alerta médica sirve para advertir a los demás que sufres una alergia grave, en el caso de que tengas una reacción que te impida comunicarte."
+            ]
+        },
+        {
+            "id": 2,
+            "enfermedad": "Enfermedad por reflujo gastroesofagico",
+            "descripcion": "La enfermedad por reflujo gastroesofágico se produce cuando el ácido del estómago fluye con frecuencia hacia el tubo que conecta la boca y el estómago (esófago). Este retroceso de ácido (reflujo ácido) puede irritar el revestimiento del esófago. Muchas personas presentan reflujo ácido de vez en cuando. Sin embargo, cuando este se repite en el tiempo, puede causar enfermedad por reflujo gastroesofágico. La mayoría de las personas pueden controlar el malestar provocado por la enfermedad por reflujo gastroesofágico con cambios en el estilo de vida y medicamentos. Otras podrían necesitar una cirugía para aliviar los síntomas, pero esto es poco frecuente.",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyucataninforma.org%2Fwp-content%2Fuploads%2F2021%2F06%2F345644461.jpg&f=1&nofb=1&ipt=bd97280a8228194ca9fdf7c5e8a0ca6af4d9b94d77486d65f6037ca766c34014&ipo=images",
+            "recomendaciones": [
+                "Busca atención médica inmediata si tienes dolor en el pecho, especialmente si también tienes falta de aire o dolor en el hueso maxilar o el brazo. Es posible que sean signos y síntomas de un ataque cardíaco.Solicita una cita con tu médico en los siguientes casos:",
+                "*Tienes síntomas graves o frecuentes de la enfermedad por reflujo gastroesofágico.",
+                "* Tomas medicamentos de venta libre para la acidez estomacal más de dos veces por semana"
+            ]
+        },
+        {
+            "id": 3,
+            "enfermedad": "Colestasis cronica",
+            "descripcion": "La colestasis se define como la disminución o la ausencia del flujo normal de la bilis desde el hígado hasta el duodeno. La bilis fluye en condiciones normales desde las células hepáticas por un sistema colector representado por los conductos biliares intrahepáticos y los conductos hepáticos derecho e izquierdo. Estos se unen formando el conducto hepático común, al que se une la vesícula biliar. A partir de esta unión, el conducto biliar se denomina colédoco y desemboca en el duodeno. El hepático común y el colédoco juntos, constituyen la vía biliar intrahepática.",
+            "img": "https://encolombia.com/wp-content/uploads/2014/01/figura4-colestasis.jpg",
+            "recomendaciones": [
+                "Existe una serie de consejos que son válidos para todo tipo de colestasis, principalmente para las intrahepáticas crónicas:",
+                "*Se debe recomendar una vida sana, con ejercicio físico de forma habitual, abstención de tabaco y alcohol e ingesta de 0,5-1 litro de leche al día.",
+                "*Conviene tomar el sol, con la protección adecuada, para fomentar la formación de vitamina D.",
+                "*No se deben tomar medicamentos de forma innecesaria ni preparados de herbolario sin prescripción médica."
+            ]
+        },
+        {
+            "id": 4,
+            "enfermedad": "Reaccion de Drogas",
+            "descripcion": "La adicción a las drogas es una enfermedad cerebral crónica. Hace que una persona tome drogas repetidamente, a pesar del daño que provoca. El uso repetido de drogas puede cambiar el cerebro y provocar adicción.Los cambios cerebrales de la adicción pueden ser duraderos, por lo que la adicción a las drogas se considera una enfermedad recurrente. Esto significa que las personas en recuperación corren el riesgo de volver a consumir drogas, incluso después de años de no tomarlas.",
+            "img": "https://medlineplus.gov/images/DrugAbuse_share.jpg",
+            "recomendaciones": [
+                "Los tratamientos para la adicción a las drogas incluyen consejería, medicamentos o ambos. La investigación muestra que combinar medicamentos con consejería brinda a la mayoría de las personas la mejor oportunidad de éxito. La consejería puede ser terapia individual, familiar y / o grupal. Si tiene un trastorno mental además de una adicción, se conoce como diagnóstico dual. Es importante tratar ambos problemas para aumentar las posibilidades de éxito del tratamiento. Si tiene una adicción severa, es posible que necesite tratamiento hospitalario o residencial. Los programas de tratamiento residencial combinan servicios de vivienda y tratamiento."
+            ]
+        },
+        {
+            "id": 5,
+            "enfermedad": "Enfermedad de ulcera peptica",
+            "descripcion": "Las úlceras pépticas son llagas abiertas que aparecen en el revestimiento interno del estómago y la parte superior del intestino delgado. El síntoma más común de la úlcera péptica es el dolor de estómago.",
+            "img": "https://www.leaderfarma.it/public/blog/8996.png",
+            "recomendaciones": [
+                "Puedes reducir el riesgo de presentar úlceras pépticas si sigues las mismas estrategias recomendadas como remedios caseros para tratar úlceras. También puede ser útil para lo siguiente:",
+                "*Protegerte de infecciones. No se sabe cómo se propaga el helicobácter pylori, pero hay pruebas que sostienen que podría transmitirse de una persona a otra, o mediante el consumo de agua o alimentos.",
+                "Puedes tomar precauciones para protegerte de las infecciones, como por ejemplo el helicobácter pylori, al lavarte las manos de manera frecuente con agua y jabón, y al comer alimentos que hayan sido cocidos por completo.",
+                "Ten cuidado con los analgésicos. Si utilizas regularmente analgésicos que aumentan el riesgo de presentar úlceras pépticas, toma medidas para reducir el riesgo de tener problemas estomacales. Por ejemplo, toma los medicamentos con las comidas."
+            ]
+        },
+        {
+            "id": 6,
+            "enfermedad": "Sida",
+            "descripcion": "El síndrome de inmunodeficiencia adquirida (SIDA) es una afección crónica que pone en riesgo la vida provocada por el virus de la inmunodeficiencia humana (VIH). Al dañar tu sistema inmunitario, el VIH interfiere con la capacidad de tu cuerpo para luchar contra infecciones y enfermedades. El VIH es una infección de trasmisión sexual. También puede trasmitirse por el contacto con sangre infectada y por inyectarse drogas ilícitas o por compartir agujas. Además, puede trasmitirse de madre a hijo durante el embarazo, el trabajo de parto o la lactancia. Sin medicamentos, es posible que pasen años hasta que el VIH debilite el sistema inmunitario hasta el punto de avanzar y convertirse en SIDA. No existe cura para el VIH o SIDA, pero los medicamentos pueden controlar la infección o prevenir el avance de la enfermedad. Los tratamientos antivirales para el VIH redujeron la cantidad de muertes por SIDA en todo el mundo, y las organizaciones internacionales están trabajando para aumentar la disponibilidad de medidas de prevención y de tratamiento en países con pocos recursos.",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/vih-sida.jpg.webp?itok=7Dh0w7KY",
+            "recomendaciones": [
+                "No existe una vacuna para prevenir la infección por el VIH ni una cura para el VIH o SIDA. Pero puedes protegerte a ti mismo y a los demás de la infección. Para ayudar a prevenir la propagación del VIH:",
+                "*Ten en cuenta la profilaxis previa a la exposición.",
+                "*Usa el tratamiento como prevención.",
+                "*Informa a tus parejas sexuales si tienes VIH.",
+                "*Entre otros"
+            ]
+        },
+        {
+            "id": 7,
+            "enfermedad": "Diabetes",
+            "descripcion": "La diabetes es una enfermedad metabólica crónica caracterizada por niveles elevados de glucosa en sangre (o azúcar en sangre), que con el tiempo conduce a daños graves en el corazón, los vasos sanguíneos, los ojos, los riñones y los nervios. La más común es la diabetes tipo 2, generalmente en adultos, que ocurre cuando el cuerpo se vuelve resistente a la insulina o no produce suficiente insulina. En las últimas tres décadas, la prevalencia de la diabetes tipo 2 ha aumentado drásticamente en países de todos los niveles de ingresos. La diabetes tipo 1, una vez conocida como diabetes juvenil o diabetes insulinodependiente, es una afección crónica en la que el páncreas produce poca o ninguna insulina por sí mismo. ",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoyFOJNVEhQt2nNCkOLM5PL4SG6YcpO5I1fQ&usqp=CAU",
+            "recomendaciones": [
+                "La diabetes tipo 1 no puede prevenirse. Sin embargo, las mismas elecciones de estilo de vida saludable que ayudan a tratar la prediabetes, la diabetes tipo 2 y la diabetes gestacional también pueden ayudar a prevenirla:",
+                "*Come alimentos saludables. Elige alimentos ricos en fibra, con bajo contenido graso y pocas calorías. Céntrate en las frutas, las verduras y los granos integrales. Come variado para evitar el aburrimiento.",
+                "*Haz más actividad física. Haz unos 30 minutos de actividad aeróbica moderada la mayoría de los días de la semana. Intenta realizar al menos 150 minutos de actividad aeróbica moderada a la semana. Por ejemplo, puedes dar un paseo diario a paso ligero. Si no puedes realizar un entrenamiento prolongado, divídelo en sesiones más cortas durante el día.",
+                "*Pierde el exceso de peso. Si tienes sobrepeso, bajar incluso el 7 % de tu peso corporal puede reducir el riesgo de tener diabetes. Por ejemplo, si pesas 200 libras (90,7 kilogramos), perder 14 libras (6,4 kilogramos) puede reducir el riesgo de diabetes."
+            ]
+        },
+        {
+            "id": 8,
+            "enfermedad": "Gastroenteritis",
+            "descripcion": "La gastroenteritis es una inflamación del revestimiento del estómago y los intestinos. Sus principales síntomas incluyen vómitos y diarrea. Por lo general, no es grave en personas sanas, pero en ocasiones puede causar deshidratación o síntomas más serios. La gastroenteritis viral es el tipo más común. Puede ser causada por muchos virus diferentes, incluyendo norovirus y rotavirus. Algunas personas se refieren a la gastroenteritis viral como gripe estomacal. Sin embargo, este nombre no es médicamente correcto, ya que no es causada por el virus de la gripe. La gripe es una infección respiratoria que afecta la nariz, la garganta y los pulmones.",
+            "img": "https://www.tododiagnostico.com/wp-content/uploads/2019/03/Infecci%C3%B3n-por-Norovirus.jpg",
+            "recomendaciones": [
+                "Por lo general, las personas con gastroenteritis mejoran por sí solas, con reposo y abundantes líquidos y electrolitos. Su profesional de la salud puede sugerir que tome un probiótico. Los estudios sugieren que algunos probióticos pueden ayudar a acortar un caso de diarrea. Las personas con síntomas más graves pueden necesitar medicamentos para controlar las náuseas o los vómitos. Los profesionales de la salud también pueden recetar otros medicamentos para ciertos tipos de gastroenteritis, como antibióticos para algunos tipos de bacterias y medicamentos antiparasitarios para algunos tipos de parásitos."
+            ]
+        },
+        {
+            "id": 9,
+            "enfermedad": "Asma Bronquia",
+            "descripcion": "El asma bronquial es una enfermedad crónica bastante habitual, aunque su incidencia entre la población varía en función de la localización geográfica. Asimismo, afecta más a la población infantil y juvenil, disminuyendo su prevalencia entre los adultos. En el presente trabajo se abordan las características clínicas y diagnósticas del asma bronquial, así como sus diferentes tipos y tratamiento, con especial atención a los broncodilatadores directos y los antiinflamatorios bronquiales.",
+            "img": "https://www.topdoctors.es/files/Image/large/59a533b2-9c50-4b16-bb1a-1ed38ac97da0.jpg",
+            "recomendaciones": [
+                "Las metas para el manejo exitoso del asma son:",
+                "1. Obtener y mantener el control de los síntomas.",
+                "2. Prevenir las exacerbaciones.",
+                "3. Mantener la función pulmonar cerca de los valores normales (cuando sea posible).",
+                "4. Mantener niveles normales de actividad, incluyendo ejercicio.",
+                "5. Evitar los efectos adversos de los medicamentos.",
+                "6. Prevenir el desarrollo de limitación al flujo aéreo irreversible.",
+                "7. Prevenir la mortalidad por asma. El tratamiento del asma tiene seis partes correlacionadas entre sí, que son:",
+                "* Educar a los pacientes para que tomen parte activa en el manejo de su enfermedad.",
+                "* Asesorar y monitorear la severidad del asma con el reporte de síntomas y medición de la función pulmonar (Flujo pico).",
+                "* Evitar la exposición a factores de riesgo.",
+                "* Establecer individualmente los planes de medicación en el control a largo plazo de pacientes pediátricos y adultos.",
+                "* Establecer planes individuales para el manejo de las exacerbaciones.",
+                "* Dar seguimiento regular a cada caso."
+            ]
+        },
+        {
+            "id": 10,
+            "enfermedad": "Hipertension",
+            "descripcion": "s una enfermedad muy prevalente, sobre todo en países de ingresos bajos y medianos, que aumenta considerablemente el riesgo de padecer enfermedades cardíacas, cerebrales y renales. Por eso, recientemente, la OMS ha publicado unas nuevas directrices sobre el tratamiento farmacológico de la hipertensión en el adulto. Las directrices formulan recomendaciones basadas en la evidencia sobre el comienzo del tratamiento de la hipertensión y los plazos de revisión recomendados. Sin embargo, según la OMS, el 46% de los adultos hipertensos desconocen que padecen esta afección y, de hecho, se diagnostica y se trata a menos de la mitad de los adultos que la presentan.",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/tension-arterial.jpg.webp?itok=zHFXEjIC",
+            "recomendaciones": [
+                "*Reduce el exceso de peso y cuida la cintura",
+                "*Haz ejercicio regularmente",
+                "*Lleva una dieta saludable",
+                "*Reduce la sal (sodio) en tu alimentación",
+                "*Limita el consumo de alcohol"
+            ]
+        },
+        {
+            "id": 11,
+            "enfermedad": "Migrana",
+            "descripcion": "Dolor de cabeza que puede causar un dolor pulsatil intenso o una sensacion pulsante generalmente de un solo lado. A menudo suele estar acompañada de náuseas, vómitos y sensibilidad a la luz y al sonido. Los ataques de migraña pueden durar de horas a dias, y el dolor puede ser tan intenso que interfiere en tus actividades diarias.",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.bioguia.com%2Fembed%2F9c7f4ad280efca84125c2b8041540311592%2Fsignificado_emocional_migrana.jpg&f=1&nofb=1&ipt=9ac0ea9da00ccc0133159e569f6a240894a13ea6f016a6556ed0e70f2a293a5a&ipo=images",
+            "recomendaciones": [
+                "Los medicamentos son una forma comprobada de tratar y prevenir las migrañas. Sin embargo, son solo una parte. También es importante cuidarte bien y entender cómo sobrellevar el dolor de la migraña cuando se presenta. El estilo de vida que promueve una buena salud general también puede reducir la cantidad de migrañas que tienes y disminuir el dolor que generan."
+            ]
+        },
+        {
+            "id": 12,
+            "enfermedad": "Espondilosis cervical",
+            "descripcion": "La espondilosis cervical es un término general que se utiliza para referirse al desgaste natural relacionado con la edad que afecta los discos intervertebrales del cuello. A medida que los discos se deshidratan y se encogen, aparecen signos de artrosis, incluso protuberancias óseas a lo largo de los bordes de los huesos (espolones óseos). La espondilosis cervical es muy frecuente y empeora con la edad. Más del 85 % de las personas mayores de 60 años se ven afectadas por la espondilosis cervical. En la mayoría de las personas, la espondilosis cervical no provoca síntomas. Cuando sí se presentan síntomas, los tratamientos no quirúrgicos suelen eficaces.",
+            "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faustriaskiguide.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fque-es-espondilosis.jpg&f=1&nofb=1&ipt=1be6860ee296e1590d5a47d0bbb50760b8b41d68f950ead68a8a740c5f93edbc&ipo=images",
+            "recomendaciones": [
+                "Medicamentos:",
+                "*Antiinflamatorios no esteroides. Los antiinflamatorios no esteroides, como el ibuprofeno (Advil, Motrin IB u otros) y el naproxeno sódico (Aleve), suelen ser de venta sin receta médica. Es posible que necesites formas de concentración con receta médica para aliviar el dolor y la inflamación por la espondilosis cervical.",
+                "*Corticoides. Un curso de tratamiento corto con prednisona oral puede ayudar a aliviar el dolor.",
+                "*Antidepresivos. Ciertos tipos de medicamentos antidepresivos pueden ayudar a aliviar el dolor de cuello causado por la espondilosis cervical.",
+                "Terapia: Un fisioterapeuta puede enseñarte ejercicios para ayudar a estirar y fortalecer los músculos del cuello y los hombros. Este puede ser uno de los mejores tratamientos para el dolor y la rigidez. Algunas personas con espondilosis cervical se benefician de la tracción, que puede ayudar a proporcionar más espacio dentro de la columna vertebral si las raíces nerviosas tienen pinzamientos.",
+                "*Cirugía: Si el tratamiento tradicional no funciona o si los síntomas neurológicos (como debilidad en los brazos o las piernas) empeoran, podrías necesitar una cirugía a fin de crear más espacio para la médula espinal y las raíces nerviosas."
+            ]
+        },
+        {
+            "id": 13,
+            "enfermedad": "Paralisis(hemorragia cerebral)",
+            "descripcion": "La parálisis cerebral es un grupo de trastornos que causan problemas del movimiento, el equilibrio y la postura. Afecta la corteza motora del cerebro, la parte de este órgano que dirige el movimiento muscular. De hecho, la segunda parte del nombre de esta afección, parálisis, significa debilidad o problemas para usar los músculos; mientras que la segunda, cerebral, significa que tiene que ver con el cerebro.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gray764.png/320px-Gray764.png",
+            "recomendaciones": [
+                "No existe una cura para la parálisis cerebral, pero el tratamiento puede mejorar la vida de quienes la padecen. Es importante comenzar un programa de tratamiento lo antes posible. Un equipo de profesionales de la salud trabajará con usted y su hijo para desarrollar un plan de tratamiento. Los tratamientos comunes incluyen:",
+                "*Medicamentos",
+                "*Cirugía",
+                "*Aparatos para movilidad asistida",
+                "*Terapia física, ocupacional, recreativa y del habla."
+            ]
+        },
+        {
+            "id": 14,
+            "enfermedad": "Ictericia",
+            "descripcion": "La ictericia hace que la piel y las partes blancas de los ojos se pongan amarillas. El exceso de bilirrubina causa la ictericia. La bilirrubina es una sustancia química color amarillo que contiene la hemoglobina, sustancia que transporta el oxígeno en los glóbulos rojos. A medida que los glóbulos rojos se degradan, el cuerpo desarrolla nuevas células para sustituirlos. Las células degradadas se procesan en el hígado. Si el hígado no puede manejar las células sanguíneas a medida que se degradan, se acumula bilirrubina en el organismo y la piel puede verse amarilla.",
+            "img": "https://static.wixstatic.com/media/eff573_2c4cc20f558e41579184c77294b90f50~mv2.jpg/v1/fill/w_1200,h_990,al_c/eff573_2c4cc20f558e41579184c77294b90f50~mv2.jpg",
+            "recomendaciones": [
+                "Consulte a un médico lo antes posible si tiene ictericia y estos signos de alarma:",
+                "*Dolor de vientre intenso espontáneo y a la palpación.",
+                "*Cambios en la función mental, como cansancio, nerviosismo o confusión.",
+                "*Sangre en las heces (caca) o heces de color oscuro o alquitranado.",
+                "*Vomitar sangre.",
+                "*Fiebre.",
+                "*Tendencia a presentar hematomas o a sangrar con facilidad.",
+                "A veces se produce una erupción de color púrpura rojizo a base de pequeños puntos o manchas más grandes.",
+                "-En las personas mayores, los signos de alarma pueden ser más leves o más difíciles de reconocer."
+            ]
+        },
+        {
+            "id": 15,
+            "enfermedad": "Malaria",
+            "descripcion": "La malaria (o paludismo) es una enfermedad causada por un parásito Plasmodium, el cual es trasmitido por la picadura de un mosquito infectado. Sólo el género anófeles del mosquito transmite la malaria. Los síntomas de esta enfermedad pueden incluir fiebre, vómito y/o dolor de cabeza. La forma clásica de manifestación en el organismo son fiebre, sudoración y escalofríos que aparecen 10 a 15 días después de la picadura del mosquito. Las muestras de sangre son examinadas con un microscopio para diagnosticar la malaria, en donde el parásito es detectado dentro de los glóbulos rojos. Las pruebas de diagnóstico rápido (RDTs) son usadas para diagnosticar la malaria en áreas remotas en donde el microscopio no puede ser utilizado.",
+            "img": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/13/ds00475_im00175_mcdc7_malaria_transmitthu_jpg.jpg",
+            "recomendaciones": [
+                "La malaria se trata con medicamentos con prescripción que matan el parásito. El tipo de medicamentos y la duración del tratamiento variarán según lo siguiente:",
+                "-Qué tipo de parásito de la malaria tienes",
+                "-La gravedad de tus síntomas",
+                "-La edad",
+                "Si estás embarazada",
+                "Medicamentos:Los medicamentos contra la malaria más comunes son los siguientes:",
+                "-Fosfato de cloroquina. La cloroquina es el tratamiento preferido para todos los parásitos sensibles a la sustancia. Sin embargo, en muchas partes del mundo los parásitos son resistentes a la cloroquina y el medicamento deja de ser un tratamiento eficaz.",
+                "-Terapias combinadas con artemisinina. Estas terapias son una combinación de dos o más fármacos que atacan al parásito de la malaria de diferentes maneras. Este suele ser el tratamiento preferido para la malaria resistente a la cloroquina. Por ejemplo, arteméter-lumefantrina (Coartem) y artesunato-mefloquina.",
+                "Otros medicamentos comunes contra la malaria son:",
+                "*Atovacuona-proguanil (Malarone)",
+                "*Sulfato de quinina (Qualaquin) con doxiciclina (Oracea, Vibramycin, otros)",
+                "*Fosfato de primaquina"
+            ]
+        },
+        {
+            "id": 16,
+            "enfermedad": "Varicela",
+            "descripcion": "La varicela es una enfermedad muy contagiosa causada por el virus de la varicela-zóster (VVZ). Produce un sarpullido con ampollas, picazón, cansancio y fiebre. El sarpullido aparece primero en el estómago, la espalda y la cara, y puede después extenderse por todo el cuerpo. La varicela puede ser grave, especialmente en los bebés, los adolescentes, los adultos y las personas con el sistema inmunitario debilitado. La mejor forma de prevenir la varicela es vacunándose contra esta enfermedad (el cuerpo tiene menos capacidad para combatir los microbios y las enfermedades).",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/varicela-adulto_0.jpg.webp?itok=yskpyiTy",
+            "recomendaciones": [
+                "En niños que por lo demás están sanos, la varicela por lo general no necesita tratamiento médico. El médico puede recetarte un antihistamínico para aliviar la picazón. Pero, en su mayor parte, se deja que la enfermedad siga su curso."
+            ]
+        },
+        {
+            "id": 17,
+            "enfermedad": "Dengue",
+            "descripcion": "El dengue se transmite a través de la picadura de un mosquito infectado. Es una enfermedad que afecta personas de todas las edades, con síntomas que varían entre una fiebre leve a una fiebre incapacitante, acompañado de dolor intenso de cabeza, dolor detrás de los ojos, dolor en músculos y articulaciones, y eritema. La enfermedad puede progresar a formas graves, caracterizada principalmente por choque, dificultad respiratoria y/o daño grave de órganos.",
+            "img": "https://observatorio.medicina.uc.cl/wp-content/uploads/2018/01/dengue-e1516720945772.jpg",
+            "recomendaciones": [
+                "-Consulte a su médico.",
+                "-Vigile los signos de alarma.",
+                "-No se automedique, no use aspirina, debido a que su efecto puede provocar hemorragias.",
+                "-No use antibióticos porque el dengue es producido por un virus y los antibióticos solo atacan a las bacterias."
+            ]
+        },
+        {
+            "id": 18,
+            "enfermedad": "Tifoidea",
+            "descripcion": "La fiebre tifoidea es una enfermedad infecciosa potencialmente mortal causada por la bacteria Salmonella typhi, que suele transmitirse por agua o alimentos contaminados. Una vez ingerida,  S. typhi se multiplica y pasa al torrente sanguineo.",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/fiebre-tifoidea.jpg.webp?itok=lrrkrHEj",
+            "recomendaciones": [
+                "La fiebre tifoidea se trata con antibióticos. Como ha aparecido resistencia a los antibióticos, entre ellos las fluoroquinolonas, en las regiones afectadas se están utilizando antibióticos más recientes, como las cefalosporinas y la azitromicina. Esporádicamente se ha descrito resistencia a esta última, pero todavía no es frecuente. Los pacientes pueden seguir siendo portadores de la bacteria después de la desaparición de los síntomas, lo cual significa que pueden transmitirla a otras personas a través de las heces."
+            ]
+        },
+        {
+            "id": 19,
+            "enfermedad": "Hepatitis A",
+            "descripcion": "La hepatitis A es una inflamación del hígado debida a la infección por el virus de la hepatitis A (VHA). Este virus se propaga principalmente cuando una persona no infectada (y no vacunada) ingiere agua o alimentos contaminados por heces de una persona infectada. La infección está muy asociada al consumo de agua y alimentos insalubres, el saneamiento deficiente, la mala higiene personal y el sexo bucoanal.",
+            "img": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/05/shutterstock_1122823709_Fotor-16x9-1024x576.jpg",
+            "recomendaciones": [
+                "No hay ningún tratamiento específico para la hepatitis A. Los síntomas pueden remitir lentamente, a lo largo de varias semanas o meses. Es importante evitar medicamentos innecesarios; por ejemplo, no se deben administrar antieméticos ni paracetamol.",
+                "La hospitalización es innecesaria en ausencia de insuficiencia hepática aguda. El tratamiento persigue el bienestar y el equilibrio nutricional del paciente, incluida la rehidratación tras los vómitos y diarreas."
+            ]
+        },
+        {
+            "id": 20,
+            "enfermedad": "Hepatitis B",
+            "descripcion": "La hepatitis B es una infección hepática grave causada por el virus de la hepatitis B (VHB). En la mayoría de los casos, la hepatitis B es de corta duración, también se denomina aguda, y dura menos de seis meses. Sin embargo, en otros, la infección de la hepatitis B se vuelve crónica, lo que significa que dura más de seis meses. Tener hepatitis B crónica aumenta el riesgo de desarrollar insuficiencia hepática, cáncer de hígado o cirrosis, que consiste en una afección que deja cicatrices permanentes en el hígado.",
+            "img": "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-hepatitis-B-1200x900.jpg",
+            "recomendaciones": [
+                "*Si sabes que has estado expuesto al virus de la hepatitis B, comunícate con el proveedor de atención médica de inmediato. Es importante saber si tienes la vacuna de la hepatitis B. Tu proveedor de atención médica querrá saber cuándo estuviste expuesto y el tipo de exposición. Una inyección de inmunoglobulina (un anticuerpo) administrada en las 24 horas siguientes a la exposición al virus puede ayudar a protegerte contra la hepatitis B. Como el tratamiento solo ofrece protección a corto plazo, también deberías recibir la vacuna de hepatitis B al mismo tiempo si no lo has hecho.",
+                "Si el proveedor de atención médica determina que la infección por hepatitis B es aguda (es decir, que no durará mucho tiempo, y que desaparecerá por su cuenta), es posible que no necesites tratamiento. No obstante, es posible que el proveedor de atención médica recomiende reposo, una alimentación correcta, muchos líquidos y un estrecho control mientras el organismo lucha contra la infección.",
+                "La mayoría de las personas con una infección crónica de hepatitis B necesitan tratamiento durante el resto de sus vidas. La decisión de comenzar un tratamiento depende de muchos factores, entre los que se incluyen los siguientes: si el virus provoca inflamación o cicatrización del hígado (cirrosis), si tienes otras infecciones como la hepatitis C o el VIH, o si tu sistema inmunitario está deprimido por efecto de una enfermedad o de medicamentos. El tratamiento reduce el riesgo de tener una enfermedad hepática y evita que trasmitas la infección a otras personas."
+            ]
+        },
+        {
+            "id": 21,
+            "enfermedad": "Hepatitis C",
+            "descripcion": "La hepatitis es la inflamación del hígado. Inflamación es la hinchazón de órganos que ocurren cuando los órganos se lesionan o infectan. La inflamación puede dañar los órganos. Existen diferentes tipos de hepatitis. Un tipo, la hepatitis C, es causado por el virus de la hepatitis C (VHC). La hepatitis C puede variar desde una enfermedad leve que dura unas pocas semanas hasta una grave de por vida.",
+            "img": "https://newsnetwork.mayoclinic.org/n7-mcnn/7bcc9724adf7b803/uploads/2019/01/a-medical-illustration-of-hepatitis-C-original.jpg",
+            "recomendaciones": [
+                "La hepatitis C se trata con medicamentos antivirales, los que pueden curar la enfermedad en la mayoría de los casos. Si tiene hepatitis C aguda, su profesional de la salud puede esperar a ver si su infección se vuelve crónica antes de comenzar el tratamiento.",
+                "Si su hepatitis C causa cirrosis, debe consultar a un médico especializado en enfermedades hepáticas. Los tratamientos para problemas de salud relacionados con la cirrosis incluyen medicamentos, cirugía y otros procedimientos médicos. Si su hepatitis C provoca insuficiencia hepática o cáncer de hígado, es posible que necesite un trasplante de hígado."
+            ]
+        },
+        {
+            "id": 22,
+            "enfermedad": "Hepatitis D",
+            "descripcion": "La hepatitis D es una inflamación del hígado causada por el VHD. Este requiere la presencia del VHB para replicarse: no puede haber hepatitis D en ausencia del VHB. La coinfección por ambos virus se considera la forma más grave de hepatitis vírica crónica, dada su progresión más rápida hacia el carcinoma hepatocelular y la muerte por causas hepáticas.",
+            "img": "https://cdn.slidesharecdn.com/ss_thumbnails/hepatitisd-150716030646-lva1-app6892-thumbnail.jpg?width=640&height=640&fit=bounds",
+            "recomendaciones": [
+                "El tratamiento generalmente recomendado en caso de una infección por el VHD es interferón alfa pegilado. Debe durar un mínimo de 48 semanas, independientemente de la respuesta del paciente. Si bien la tasa global de respuesta virológica suele ser baja, este tratamiento se asocia con una menor probabilidad de avance de la enfermedad.",
+                "El tratamiento tiene importantes efectos secundarios y está contraindicado en pacientes con cirrosis descompensada, patologías psiquiátricas activas y enfermedades autoinmunes.",
+                "Es necesario intensificar los esfuerzos para reducir la carga mundial de la hepatitis B crónica y desarrollar medicamentos contra la hepatitis D que sean seguros y eficaces y suficientemente asequibles para utilizarlos a gran escala en las personas que más los necesitan."
+            ]
+        },
+        {
+            "id": 23,
+            "enfermedad": "Hepatitis E",
+            "descripcion": "La hepatitis E es una infección viral que causa inflamación y daño al hígado. La inflamación es una hinchazón que ocurre cuando los tejidos del cuerpo se lesionan o infectan. La inflamación puede dañar los órganos. Algunos tipos se transmiten al tomar agua contaminada.",
+            "img": "https://www.emergency-live.com/wp-content/uploads/2022/11/epatite-e-1.jpg",
+            "recomendaciones": [
+                "El tratamiento para la hepatitis E aguda incluye descansar, beber muchos líquidos y comer alimentos saludables para ayudar a aliviar los síntomas.",
+                "Hable con su doctor antes de tomar cualquier medicina con o sin receta, vitaminas u otros suplementos dietéticos, ya que cualquiera de estos podría dañarle el hígado. Debe evitar las bebidas alcohólicas hasta que el doctor le indique que se ha recuperado completamente de la hepatitis E."
+            ]
+        },
+        {
+            "id": 24,
+            "enfermedad": "Hepatitis Alcoholica",
+            "descripcion": "La hepatitis alcohólica es la inflamación del hígado a causa de la ingesta de alcohol. Es más probable que la hepatitis alcohólica se presente en personas que beben en abundancia durante muchos años. Sin embargo, la relación entre la bebida y la hepatitis alcohólica es compleja. No todos los bebedores empedernidos desarrollan hepatitis alcohólica, y la enfermedad puede presentarse en personas que beben moderadamente.",
+            "img": "https://www.meditip.lat/wp-content/uploads/2018/04/Hepatitis-Alcoh%C3%B3lica.jpg",
+            "recomendaciones": [
+                "El único tratamiento eficaz es el abandono del consumo de alcohol. Si existe dependencia alcohólica la suspensión del consumo precisa de ayuda psiquiátrica.",
+                "La supresión del consumo del alcohol permite la curación de la esteatosis y, en muchos casos, de la hepatitis alcohólica; cuando existe cirrosis, da lugar a una mejoría de la función hepática, aunque la cirrosis es irreversible.",
+                "Dependiendo del grado de deterioro de la función hepática, estos pacientes podrán llevar luego una vida normal o, por el contrario, precisar un trasplante hepático para evitar el fallecimiento a causa de complicaciones de la cirrosis."
+            ]
+        },
+        {
+            "id": 25,
+            "enfermedad": "Tuberculosis",
+            "descripcion": "La tuberculosis es una enfermedad infecciosa causada por Mycobacterium tuberculosis, una bacteria que casi siempre afecta a los pulmones. Se transmite de persona a persona a través del aire. Los síntomas de la tuberculosis activa incluyen tos, dolores torácicos, debilidad, pérdida de peso, fiebre y sudores nocturnos. En las personas sanas, la infección no suele causar síntomas, porque el sistema inmunitario de la persona actúa para bloquear la bacteria.",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/bacilo-tuberculosis.jpg.webp?itok=9GL9-AMP",
+            "recomendaciones": [
+                "El tratamiento tanto para la infección de tuberculosis latente como para la enfermedad activa son antibióticos. Para asegurarse de deshacerse de todos los gérmenes de la tuberculosis en su cuerpo, es muy importante que siga las instrucciones para tomar su medicamento.",
+                "Si no sigue las instrucciones, los gérmenes de la tuberculosis en su cuerpo podrían cambiar y volverse resistentes a los antibióticos. Eso significa que el medicamento puede dejar de funcionar y su TB puede volverse difícil de curar.",
+                "-Para las infecciones latentes de tuberculosis, en general se toman medicamentos durante 3 a 9 meses. El tratamiento ayuda a asegurarse de que no contraiga TB en el futuro.",
+                "-Para la enfermedad de tuberculosis activa, en general necesita tomar medicamentos durante 6 a 12 meses. El tratamiento casi siempre lo curará si toma sus píldoras como debe.",
+                "-Para la enfermedad de tuberculosis en los pulmones o la garganta, deberá quedarse en casa durante algunas semanas para no contagiar la enfermedad a otras personas."
+            ]
+        },
+        {
+            "id": 26,
+            "enfermedad": "Resfriado Comun",
+            "descripcion": "El resfriado común es una infección viral de la nariz y la garganta (tracto respiratorio superior). Por lo general es inofensivo, aunque puede que no lo parezca. Muchos tipos de virus pueden causar un resfriado común.",
+            "img": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/09/16/5fa52e8348c10.jpeg",
+            "recomendaciones": [
+                "*Mantente hidratado.",
+                "*Descansa.",
+                "*Alivia el dolor de garganta.",
+                "*Alivia el dolor. En el caso de los niños menores de 6 meses, administra únicamente acetaminofén. Para los niños mayores de 6 meses, puedes usar acetaminofén o ibuprofeno. Consulta con el médico de tu hijo cuál es la dosis correcta para la edad y el peso de tu hijo.",
+                "*Toma sorbos de líquidos calientes.",
+                "*Prueba la miel.",
+                "Tomas los medicamentos solo según se te indique. Algunos medicamentos contra el resfriado contienen múltiples ingredientes, como un descongestionante más un analgésico, por eso, lee las etiquetas de los medicamentos contra el resfriado que tomas para asegurarte de no consumir una cantidad excesiva de ningún medicamento."
+            ]
+        },
+        {
+            "id": 27,
+            "enfermedad": "Neumonia",
+            "descripcion": "La neumonía es una infección que inflama los sacos aéreos de uno o ambos pulmones. Los sacos aéreos se pueden llenar de líquido o pus (material purulento), lo que provoca tos con flema o pus, fiebre, escalofríos y dificultad para respirar. Diversos microrganismos, como bacterias, virus y hongos, pueden provocar neumonía.",
+            "img": "https://www.clinicbarcelona.org/uploads/media/default/0001/09/72e3356aa4574c3693754e4041583d24387a562e.png",
+            "recomendaciones": [
+                "El tratamiento para la neumonía implica la cura de la infección y la prevención de complicaciones. Las personas que presentan neumonía adquirida en la comunidad normalmente pueden recibir tratamiento en sus hogares con medicamentos. A pesar de que la mayoría de los síntomas se alivian en unos pocos días o semanas, la sensación de cansancio puede perdurar durante un mes o más."
+            ]
+        },
+        {
+            "id": 28,
+            "enfermedad": "Hemorroides dismorficas(almorranas)",
+            "descripcion": "Las hemorroides son una parte normal de nuestro cuerpo, unas almohadillas formadas por vasos sanguíneos que rodean al canal anal. Sin embargo, habitualmente se utiliza el término hemorroides para designar aquellas que se dilatan y producen molestias. La enfermedad hemorroidal es una causa frecuente de consulta médica, con una frecuencia variable (4-86% de las personas) en los diversos estudios, sin diferencias entre varones y mujeres. ",
+            "img": "https://cuidateplus.blob.core.windows.net/cms/images/hemorroide.jpg",
+            "recomendaciones": [
+                "Ablandadores de heces y baños de asiento",
+                "Para las hemorroides externas trombosadas, la eliminación de coágulos de sangre",
+                "Para las hemorroides internas, escleroterapia, ligadura con banda elástica o fotocoagulación con infrarrojos",
+                "En ocasiones, extirpación quirúrgica"
+            ]
+        },
+        {
+            "id": 29,
+            "enfermedad": "Infarto de miocardio",
+            "descripcion": "l infarto de miocardio es una patología que se caracteriza por la muerte de una porción del músculo cardíaco que se produce cuando se obstruye completamente una arteria coronaria. En las circunstancias en las que se produce la obstrucción el aporte sanguíneo se suprime. Si el músculo cardiaco carece de oxígeno durante demasiado tiempo, el tejido de esa zona muere y no se regenera.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blausen_0463_HeartAttack-es.png/280px-Blausen_0463_HeartAttack-es.png",
+            "recomendaciones": [
+                "En el instante en que el paciente tenga la sospecha de que presenta algunos de los síntomas ya descritos debe avisar inmediatamente a los servicios de emergencias y posteriormente pueden tomar una aspirina",
+                "En el hospital, los pacientes pueden recibir distintos tipos de tratamientos",
+                "-Oxígeno",
+                "-Analgésicos",
+                "-Betabloqueantes",
+                "-Trombolítico",
+                "-Antiagregantes plaquetarios",
+                "-Calcioantagonistas.",
+                "-Nitratos.",
+                "-Digitálicos.",
+                "Otros tratamientos:",
+                "*Bypass coronario.",
+                "*Intervención coronaria percutánea"
+            ]
+        },
+        {
+            "id": 30,
+            "enfermedad": "Venas varicosas",
+            "descripcion": "Las venas varicosas son venas retorcidas y agrandadas. Cualquier vena que esté cerca de la superficie de la piel (superficial) puede volverse varicosa. Las venas varicosas suelen afectar a las venas de las piernas. Eso se debe a que estar de pie y caminar aumenta la presión en las venas de la parte inferior del cuerpo.",
+            "img": "https://medlineplus.gov/spanish/ency/images/ency/fullsize/19705.jpg",
+            "recomendaciones": [
+                "Las venas varicosas son venas retorcidas y agrandadas. Cualquier vena que esté cerca de la superficie de la piel (superficial) puede volverse varicosa. Las venas varicosas suelen afectar a las venas de las piernas. Eso se debe a que estar de pie y caminar aumenta la presión en las venas de la parte inferior del cuerpo."
+            ]
+        },
+        {
+            "id": 31,
+            "enfermedad": "Hipotiroidismo",
+            "descripcion": "El hipotiroidismo, o tiroides hipoactiva, ocurre cuando la glándula tiroides no produce suficientes hormonas tiroideas para satisfacer las necesidades del cuerpo. Su tiroides es una pequeña glándula con forma de mariposa ubicada en la parte delantera de su cuello. Produce hormonas que controlan cómo el cuerpo usa la energía. Estas hormonas afectan a casi todos los órganos de su cuerpo y controlan muchas de las funciones más importantes de su cuerpo. Por ejemplo, afectan su respiración, frecuencia cardíaca, peso, digestión y estados de ánimo. Sin suficientes hormonas tiroideas, muchas de las funciones de su cuerpo se vuelven más lentas. Sin embargo, existen tratamientos que pueden ayudar.",
+            "img": "https://www.sabervivirtv.com/medio/2020/11/11/hipotiroidismo-ficha_9fc8e0f2_1200x630.jpg",
+            "recomendaciones": [
+                "El hipotiroidismo se trata con un medicamento para reemplazar la hormona que su propia tiroides no puede producir. Entre 6 a 8 semanas después de comenzar a tomar el medicamento se le realizará un análisis de sangre para verificar el nivel de su hormona tiroidea. Su profesional de la salud ajustará su dosis si es necesario. Cada vez que se ajuste su dosis, se le realizará otro análisis de sangre. Una vez que encuentre la dosis correcta, es probable que en 6 meses se someta a otro análisis de sangre. Después de eso, necesitará la prueba una vez al año."
+            ]
+        },
+        {
+            "id": 32,
+            "enfermedad": "Hipertiroidismo",
+            "descripcion": "El hipertiroidismo, o tiroides hiperactiva, ocurre cuando la glándula tiroides produce más hormonas tiroideas de las que su cuerpo necesita. Su tiroides es una pequeña glándula con forma de mariposa ubicada en la parte delantera de su cuello. Produce hormonas que controlan cómo el cuerpo usa la energía. Estas hormonas afectan a casi todos los órganos de su cuerpo y controlan muchas de las funciones más importantes de su cuerpo. Por ejemplo, afectan su respiración, frecuencia cardíaca, peso, digestión y estados de ánimo. Si no se trata, el hipertiroidismo puede causar serios problemas del corazón, huesos, músculos, ciclo menstrual y fertilidad. Sin embargo, existen tratamientos que pueden ayudar.",
+            "img": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__medium/public/media/2020/10/23/hipertiroidismo.jpg",
+            "recomendaciones": [
+                "Los tratamientos para el hipertiroidismo incluyen medicamentos, terapia con yodo radiactivo y cirugía de tiroides:",
+                "Los medicamentos para el hipertiroidismo incluyen:",
+                "*Medicamentos antitiroideos: Hacen que su tiroides produzca menos hormona tiroidea.",
+                "*Medicamentos betabloqueantes: Pueden reducir síntomas como temblores, latidos cardíacos rápidos y nerviosismo.",
+                "Terapia con yodo radioactivo: Tratamiento común y efectivo para el hipertiroidismo.",
+                "Cirugía para extirpar parte o la mayoría de la glándula tiroides: Se realiza en casos raros.",
+                "Si tiene hipertiroidismo, es importante no consumir demasiado yodo. Hable con su profesional de la salud sobre qué alimentos, suplementos y medicamentos debe evitar."
+            ]
+        },
+        {
+            "id": 33,
+            "enfermedad": "Hipoglucemia",
+            "descripcion": "Hipoglucemia significa poca glucosa, una forma de azúcar, en la sangre. El cuerpo necesita glucosa para tener suficiente energía. Después de comer, la sangre absorbe la glucosa. Si ingiere más azúcar de la que su cuerpo necesita, los músculos y el hígado almacenan lo que no usa. Cuando el azúcar en la sangre comienza a bajar, una hormona le indica al hígado que libere glucosa.",
+            "img": "https://msptucuman.gov.ar/wordpress/wp-content/uploads/2021/03/hipoglucemia-01-1024x614.jpg",
+            "recomendaciones": [
+                "Si tienes síntomas de hipoglucemia, haz lo siguiente:",
+                "*Come o bebe de 15 a 20 gramos de carbohidratos de acción rápida.",
+                "*Vuelve a controlar los niveles de glucosa en la sangre 15 minutos después del tratamiento.",
+                "*Toma un refrigerio o consume una comida."
+            ]
+        },
+        {
+            "id": 34,
+            "enfermedad": "Osteoartritis",
+            "descripcion": "La osteoartritis es una enfermedad de las articulaciones en la que los tejidos de la articulación afectada se deterioran con el tiempo. Este es el tipo más frecuente de artritis y es más común en las personas mayores. Por lo general, las personas con osteoartritis tienen dolor en las articulaciones y, después de descansar, rigidez (incapacidad para moverse con facilidad) durante un período corto de tiempo.",
+            "img": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/voltaren/es_MX/desktop/pains_and_treatments_detail_pages/Knee_Osteoarthritis.jpg?auto=format",
+            "recomendaciones": [
+                "La artrosis no se puede revertir, pero los tratamientos pueden reducir el dolor y ayudarte a moverte mejor.",
+                "*Medicamentos: Algunos de los medicamentos que pueden ayudar a aliviar los síntomas de la osteoartritis, principalmente el dolor",
+                "*Terapia",
+                "*Cirugia y otros procedimientos"
+            ]
+        },
+        {
+            "id": 35,
+            "enfermedad": "Artritis",
+            "descripcion": "La artritis es la hinchazón y la sensibilidad de una o más de las articulaciones. Los principales síntomas de la artritis son dolor y rigidez de las articulaciones, que suelen empeorar con la edad. Los tipos más frecuentes de artritis son la artrosis y la artritis reumatoide.",
+            "img": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/10/47/ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg",
+            "recomendaciones": [
+                "El tratamiento para la artritis se centra en aliviar los síntomas y mejorar el funcionamiento de las articulaciones. Posiblemente necesites probar distintos tratamientos o combinaciones de estos antes de encontrar lo que funcione mejor para ti.",
+                "*Medicamentos: Los medicamentos que se utilizan para tratar la artritis varían según el tipo de artritis.",
+                "*Terapia: La fisioterapia puede ser útil para algunos tipos de artritis. Los ejercicios pueden mejorar la amplitud de movimiento y fortalecer los músculos que rodean las articulaciones. En algunos casos, puede justificarse el uso de una férula o de dispositivos de inmovilización.",
+                "*Cirugia"
+            ]
+        },
+        {
+            "id": 36,
+            "enfermedad": "Vertigo",
+            "descripcion": "El vértigo es una sensación de movimiento o giros que a menudo se describe como mareo. El vértigo no es lo mismo que sentirse aturdido. Las personas con vértigo sienten como si realmente estuvieran girando o moviéndose, o como si el mundo estuviera girando a su alrededor.",
+            "img": "https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/vertigo-hojas.jpg.webp?itok=32dllean",
+            "recomendaciones": [
+                "La primera medida cuando se tiene vértigo es reposar con los ojos cerrados y con el mínimo ruido ambiental.",
+                "El tratamiento definitivo dependerá del tipo de vértigo, por lo que es importante consultar con el médico de familia para que lo paute o derive al paciente al internista, al otorrinolaringólogo, al neurólogo o a otro especialista diferente."
+            ]
+        },
+        {
+            "id": 37,
+            "enfermedad": "Acne",
+            "descripcion": "El acné es una afección frecuente de la piel (cutánea) que ocurre cuando los folículos pilosos debajo de esta se obstruyen. La grasa y las células muertas de la piel tapan los poros y puede haber brotes de lesiones (a menudo llamados granos o espinillas). La mayoría de las veces, los brotes ocurren en la cara, pero también pueden salir en la espalda, el pecho y los hombros.",
+            "img": "https://www.topdoctors.es/files/Image/large/0d1a047f742b9ca9bbe9c741552d2f4f.jpg",
+            "recomendaciones": [
+                "Si has probado productos para el acné de venta libre (sin receta médica) durante varias semanas y no te han ayudado, consulta con tu médico acerca de los medicamentos de venta con receta médica. El dermatólogo te puede ayudar con lo siguiente:",
+                "*Controlar el acné",
+                "*Evitar las cicatrices u otros daños en la piel",
+                "*Hacer que las cicatrices no sean tan visibles"
+            ]
+        },
+        {
+            "id": 38,
+            "enfermedad": "Infeccion del tracto urinario",
+            "descripcion": "Una infección de las vías urinarias es una infección que se puede presentar en cualquier parte del sistema urinario. El sistema urinario comprende los riñones, los uréteres, la vejiga y la uretra. La mayoría de las infecciones afectan las vías urinarias inferiores (la vejiga y la uretra).",
+            "img": "https://tusalud.cayetano.edu.pe/wp-content/uploads/2021/05/ITU.jpg",
+            "recomendaciones": [
+                "Normalmente, los antibióticos son el primer tratamiento para las infecciones de las vías urinarias. El estado de salud y el tipo de bacterias que se encuentran en la orina determinan qué medicamentos se usan y el tiempo que debes tomarlos."
+            ]
+        },
+        {
+            "id": 39,
+            "enfermedad": "Psoriasis",
+            "descripcion": "La psoriasis es una enfermedad de la piel que causa un sarpullido con manchas rojas y escamosas que pican, sobre todo en las rodillas, los codos, el tronco y el cuero cabelludo.",
+            "img": "https://images.theconversation.com/files/365788/original/file-20201027-17-1p0dt79.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6245%2C3511&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+            "recomendaciones": [
+                "Los tratamientos para la psoriasis tienen como objetivo detener la proliferación sumamente rápida de las células de la piel y eliminar las escamas. Algunas opciones son cremas y ungüentos (terapia tópica), luminoterapia (fototerapia) y medicamentos de administración oral o inyectables.",
+                "Los tratamientos que uses dependerán de la gravedad de la psoriasis y de cómo esta respondió al tratamiento anterior y a las medidas de cuidado personal. Es probable que necesites probar diferentes medicamentos o una combinación de tratamientos antes de que encuentres un método que sea eficaz. Aun si el tratamiento es eficaz, por lo general, la enfermedad regresa."
+            ]
+        },
+        {
+            "id": 40,
+            "enfermedad": "Impetigo",
+            "descripcion": "El impétigo es una infección cutánea muy contagiosa que afecta principalmente a los bebés y a los niños pequeños. Por lo general, se manifiesta mediante la aparición de llagas rojas en la cara, en especial alrededor de la nariz y la boca, y en las manos y los pies. En el transcurso de aproximadamente una semana, las llagas revientan y producen costras de color miel.",
+            "img": "https://www.cdc.gov/groupastrep/images/impetigo.jpg?_=61780",
+            "recomendaciones": [
+                "El impétigo se trata con cremas o ungüentos con mupirocina, un antibiótico recetado, que se aplican directamente sobre las llagas dos o tres veces por día durante 10 días.",
+                "Antes de aplicar el medicamento, sumerge el área en agua tibia o aplica compresas con un paño húmedo durante algunos minutos. Luego, seca dando golpecitos suaves y retira con cuidado las costras para que el antibiótico pueda penetrar en la piel. Coloca un vendaje antiadherente sobre el área para ayudar a evitar que las llagas se propaguen.",
+                "Para el ectima o si hay muchas llagas como consecuencia del impétigo, el médico podría recetar antibióticos para tomar por vía oral. Debes completar todo el tratamiento aunque las llagas hayan cicatrizado."
+            ]
+        }
+    ]
+}

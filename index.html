@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Modelo de clasificacion de enfermedades</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.12.0"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Sintomas</h1>
+    </header>
+    <main>
+        <ul id="checkbox-container" class="checkbox-container"></ul>
+        <button id="submit-button" class="submit-button">Predecir</button>
+
+        <div id="ventanaEmergente" class="ventanaEmergente">
+            <div class="ventanaEmergente-contenido">
+                <div class="titulo">
+                    <h2 id="titulo"></h2>
+                </div>
+                <div class="imagen">
+                    <img id="imagen" src="" alt="">
+                </div>
+                <div class="descripcion">
+                    <p id="descripcion"></p>
+                </div>
+                <div class="recomendaciones">
+                    <h3>Recomendaciones:</h3>
+                    <ul id="recomendaciones"></ul>
+                </div>
+                <div class="cerrar">
+                    <span id="cerrarVentana" class="cerrarVentana">&times;</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="ventanaEmergenteError" class="ventanaEmergente">
+            <div class="ventanaEmergente-contenido">
+                <div class="titulo">
+                    <h2>Error</h2>
+                </div>
+                <div class="descripcion">
+                    <p id="mensajeError"></p>
+                </div>
+                <div class="cerrar">
+                    <span id="cerrarVentanaError" class="cerrarVentana">&times;</span>
+                </div>
+            </div>
+        </div>
+
+    </main>
+    <script>
+
+        async function loadModel() {
+            // Carga el modelo de TensorFlow.js desde el archivo model.json
+            var modelo = null;
+            (async () => {
+                console.log("Cargando modelo...");
+                modelo = await tf.loadLayersModel("model.json");
+                console.log("Modelo cargado");
+            })();
+
+            cargarSintomas();
+
+            // Obtener el botón de enviar
+            const submitButton = document.getElementById('submit-button');
+
+            // Agregar un evento de click al botón de enviar
+            submitButton.addEventListener('click', async () => {
+                // Obtener los valores de los checkboxes seleccionados
+                const selectedSymptoms = [];
+                const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+                // Recorrer cada checkbox y verificar si está seleccionado o no
+                checkboxes.forEach((checkbox) => {
+                    const isChecked = checkbox.checked;
+                    if (isChecked) {
+                        selectedSymptoms.push(1);
+                    } else {
+                        selectedSymptoms.push(0);
+                    }
+                });
+
+                const cantidadSeleccionados = document.querySelectorAll('input[type="checkbox"]:checked').length;
+
+                if (cantidadSeleccionados >= 2) {
+                    // Convertir el arreglo a un tensor
+                    const input = tf.tensor2d([selectedSymptoms]);
+                    // Hacer una predicción con el modelo
+                    const output = modelo.predict(input);
+                    // Obtener la salida como un array de JavaScript
+                    const result = await output.data();
+                    //console.log(result)
+                    // Encuentra la enfermedad con la probabilidad más alta
+                    const maxIndex = result.indexOf(Math.max(...result));
+                    // Mostrar la salida en la consola del navegador
+                    cargarEnfermedadInfo(maxIndex);
+                } else {
+                    ventanaError("Seleccione por lo menos 2 sintomas a mas.");
+                }
+            });
+        }
+
+        // Llama a la función loadModel() cuando se carga la página
+        window.onload = loadModel;
+
+        function cargarEnfermedadInfo(pos) {
+            const btnAbrirVentana = document.getElementById('mostrarVentana');
+            const ventanaEmergente = document.getElementById('ventanaEmergente');
+            const btnCerrarVentana = document.getElementById('cerrarVentana');
+            const titulo = document.getElementById('titulo');
+            const imagen = document.getElementById('imagen');
+            const descripcion = document.getElementById('descripcion');
+            const recomendaciones = document.getElementById('recomendaciones');
+            recomendaciones.innerHTML = "";
+            fetch('Datos/enfermedades.json')
+                .then(response => response.json())
+                .then(data => {
+                    const enfermedad = data.enfermedades.find(enfermedad => enfermedad.id === pos);
+                    titulo.textContent = enfermedad.enfermedad;
+                    imagen.src = enfermedad.img;
+                    imagen.width = 400;
+                    imagen.height = 300;
+                    descripcion.textContent = enfermedad.descripcion;
+                    for (let i = 0; i < enfermedad.recomendaciones.length; i++) {
+                        const li = document.createElement('li');
+                        li.textContent = enfermedad.recomendaciones[i];
+                        recomendaciones.appendChild(li);
+                    }
+                    ventanaEmergente.style.display = 'block';
+                })
+                .catch(error => console.error(error))
+
+            document.getElementById("cerrarVentana").addEventListener("click", function () {
+                document.getElementById("ventanaEmergente").style.display = "none";
+            });
+        }
+
+        function cargarSintomas() {
+            const checkboxContainer = document.getElementById('checkbox-container');
+            fetch('Datos/sintomas.json')
+                .then(response => response.json())
+                .then(data => {
+                    data.sintomas.forEach(sintoma => {
+                        let checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.name = 'opcion-' + (sintoma.id);
+                        checkbox.value = sintoma.sintoma;
+
+                        let label = document.createElement('label');
+
+                        let img = document.createElement('img');
+                        img.src = sintoma.img;
+                        img.width = '30';
+                        img.height = '30';
+                        label.appendChild(img);
+
+                        label.htmlFor = 'opcion-' + (sintoma.id);
+                        label.appendChild(document.createTextNode(sintoma.sintoma));
+
+                        let listItem = document.createElement('li');
+                        listItem.appendChild(checkbox);
+                        listItem.appendChild(label);
+
+                        checkboxContainer.appendChild(listItem);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error al cargar los datos del archivo JSON:', error);
+                });
+        }
+
+        function ventanaError(mensaje) {
+            var ventanaEmergenteError = document.getElementById("ventanaEmergenteError");
+            var mensajeError = document.getElementById("mensajeError");
+            // Establecer el mensaje de error en el párrafo correspondiente
+            mensajeError.textContent = mensaje;
+
+            // Mostrar la ventana emergente de errores
+            ventanaEmergenteError.style.display = "block";
+            document.getElementById("cerrarVentanaError").addEventListener("click", function () {
+                document.getElementById("ventanaEmergenteError").style.display = "none";
+            });
+        }
+    </script>
+</body>
+</html>
